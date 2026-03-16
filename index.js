@@ -12,8 +12,8 @@ try {
 }
 
 // ✅ Group Info
-const GROUP_THREAD_ID = "1290358189239818";
-const LOCKED_GROUP_NAME = "🤪AYUSH RAJPUT KING OF FB 😂";
+const GROUP_THREAD_ID = "24924652145239";
+const LOCKED_GROUP_NAME = "🤪VaRUNN Ki Amma Chudi hui Randi";
 
 // ✅ Locked Nicknames (userID : nickname)
 const LOCKED_NICKNAMES = {
