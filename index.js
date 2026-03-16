@@ -12,7 +12,7 @@ try {
 }
 
 // ✅ Group Info
-const GROUP_THREAD_ID = "24924652145239";
+const GROUP_THREAD_ID = "2492465214523975";
 const LOCKED_GROUP_NAME = "🤪VaRUNN Ki Amma Chudi hui Randi";
 
 // ✅ Locked Nicknames (userID : nickname)
